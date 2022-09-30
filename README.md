@@ -1,6 +1,6 @@
-# Master Thesis for the M.Sc.in Applied and Computational Mathematic
+# Using Artificial Neural Networks To Solve PDEs in regions with non-trivial boundaries.
 
-The work presented here is the result of my Master Thesis for the M.Sc.in Applied and Computational Mathematics in Universidad Carlos III de Madrid.
+The work presented here is the result of my Master Thesis for the M.Sc.in Computational and Applied Mathematics in Universidad Carlos III de Madrid.
 Implementation of a general way to solve PDEs by using ANNs in TensorFlow.
 
 The code in this work have been written using the theoretical work of Jens Berg and Kaj Nyström in "A unified deep artificial neural network approach to partial differential equations in complex geometries."
